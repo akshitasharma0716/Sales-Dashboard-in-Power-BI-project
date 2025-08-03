@@ -1,0 +1,6 @@
+Order ID,Product,Category,Sales,Quantity,Order Date,Region
+1001,Laptop,Electronics,75000,2,2025-07-01,North
+1002,Chair,Furniture,4500,4,2025-07-02,South
+1003,Phone,Electronics,30000,1,2025-07-03,West
+1004,Table,Furniture,7000,3,2025-07-04,East
+1005,Monitor,Electronics,12000,2,2025-07-05,North
